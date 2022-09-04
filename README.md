@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simontd13
+- 👋 Hi, I’m @SiDu-D2
 - 👀 I’m interested in changing my life with code
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on learning.
